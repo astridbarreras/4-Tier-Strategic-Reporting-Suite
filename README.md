@@ -1,8 +1,8 @@
 # 4-Tier-Strategic-Reporting-Suite
 
 
-             Strategic Reporting Suite            
-          Simulated Analyst Toolkit – WFC         
+Strategic Reporting Suite            
+Simulated Analyst Toolkit – WFC         
 
 Tier 1 | Quarterly Earnings Review               
 → What happened?                        
