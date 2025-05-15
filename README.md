@@ -5,7 +5,7 @@ Strategic Reporting Suite
 Simulated Analyst Toolkit – WFC         
 
 🔷 TIER 1: QUARTERLY EARNINGS REVIEW → What happened? 
-   └── Audience: CFO, Finance Leadership
+   └── Audience: CFO, Finance Leadership 
    └── Focus: Company-wide financial health
    └── Key Metrics:
        • Revenue, Net Income, EPS
